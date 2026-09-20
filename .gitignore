@@ -1,0 +1,32 @@
+# macOS metadata
+.DS_Store
+._*
+
+# Generated study guides and temporary working files
+/output/
+/tmp/
+
+# Python bytecode, caches, and local virtual environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Jekyll / GitHub Pages build outputs
+/_site/
+/.jekyll-cache/
+/.sass-cache/
+/.jekyll-metadata
+
+# Local environment configuration (keep examples versionable)
+.env
+.env.*
+!.env.example
+
+# Editor recovery files
+*.swp
+*.swo
+*~
