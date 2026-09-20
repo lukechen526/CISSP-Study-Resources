@@ -82,6 +82,8 @@ There is a lot of information on the CISSP exam available, including from (ISC)Â
 
 ## Study Guides By Domain
 
+For connected explanations, examples, and AI applications, read the [beginner-friendly content chapters](content/README.md). The original objective notes remain below for reference.
+
 - [Domain 1 - Security and Risk Management](CISSP-Domain-1-2024+Objectives.md)
 - [Domain 2 - Asset Security](CISSP-Domain-2-2024+Objectives.md)
 - [Domain 3 - Security Architecture and Engineering](CISSP-Domain-3-2024+Objectives.md)

@@ -1,0 +1,66 @@
+[
+  {
+    "domain": 1,
+    "objectives": 12,
+    "words": 16408,
+    "source_lines": 693,
+    "terms": 206,
+    "source_sha256": "67c83a4ad634f6b207408541f50376cdf0679ab4a2eaecebd49b38dbb70717ca"
+  },
+  {
+    "domain": 2,
+    "objectives": 6,
+    "words": 6551,
+    "source_lines": 239,
+    "terms": 95,
+    "source_sha256": "90de5693591abf94ca5260c3b3638499ef2a04e8e5d02d837320ec5c29f8acb4"
+  },
+  {
+    "domain": 3,
+    "objectives": 10,
+    "words": 19314,
+    "source_lines": 875,
+    "terms": 299,
+    "source_sha256": "36341f7471c92daf775942e9a95cbc2cfb64dbfb0fa231fe5088f0bc6ba9c1b0"
+  },
+  {
+    "domain": 4,
+    "objectives": 3,
+    "words": 18392,
+    "source_lines": 748,
+    "terms": 308,
+    "source_sha256": "3388c1c82e84fe58fab702043fe83adb871b0d0a539342d17bc362db2b7c53d2"
+  },
+  {
+    "domain": 5,
+    "objectives": 6,
+    "words": 9698,
+    "source_lines": 429,
+    "terms": 116,
+    "source_sha256": "3d0cfc079359e70d942958e15927f81ad9d7e00431e3972e87589aa386761027"
+  },
+  {
+    "domain": 6,
+    "objectives": 5,
+    "words": 7126,
+    "source_lines": 348,
+    "terms": 84,
+    "source_sha256": "705bb62773939528d33eb3e72817906293825f85224212b8b7eb472a28c42f8f"
+  },
+  {
+    "domain": 7,
+    "objectives": 15,
+    "words": 19754,
+    "source_lines": 890,
+    "terms": 237,
+    "source_sha256": "ee27a7c0c9df40f2cfc8783abb3f95c426ec8ec6db5af06383351e5434a06238"
+  },
+  {
+    "domain": 8,
+    "objectives": 5,
+    "words": 9694,
+    "source_lines": 426,
+    "terms": 150,
+    "source_sha256": "242f24cb21a5b52fdafc197f69fb81c2fa30e9d502c3578025258f3b668da99c"
+  }
+]
